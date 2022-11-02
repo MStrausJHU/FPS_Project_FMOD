@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b5fff9a1-0872-4fbe-b1ab-387e75722983}">
+		<property name="assetPath">
+			<value>SFX/Player/Damage_Tick.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.052244897959183675</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7848742f-361d-4adc-bf4c-f1f83ae65e48}</destination>
+		</relationship>
+	</object>
+</objects>

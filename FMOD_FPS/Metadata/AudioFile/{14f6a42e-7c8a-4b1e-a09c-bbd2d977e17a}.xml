@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{14f6a42e-7c8a-4b1e-a09c-bbd2d977e17a}">
+		<property name="assetPath">
+			<value>SFX/Weapons/Launcher_Release.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0598281249999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7848742f-361d-4adc-bf4c-f1f83ae65e48}</destination>
+		</relationship>
+	</object>
+</objects>
